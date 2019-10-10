@@ -3,8 +3,8 @@
 using namespace std;
 
 int printSomething(int x, int a, int b, int c)
-{ int answer= x + a + b + c;
-cout << "the answer is ";
+{  int answer= x + a + b + c;
+   cout << "the answer is ";
    return answer;
 
 }
